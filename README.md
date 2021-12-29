@@ -1,2 +1,2 @@
 # Fritzing-Parts
-Fritzing parts, modified or created 
+Fritzing parts, modified or created by myself
